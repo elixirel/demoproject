@@ -1,0 +1,2 @@
+# Post processor implementation
+org.springframework.boot.env.EnvironmentPostProcessor=com.example.simplehomepage.config.EncryptEnvPostProcessor
